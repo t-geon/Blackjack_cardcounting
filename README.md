@@ -1,11 +1,13 @@
 # blackjack_cardcounting
 
+This is the code I wrote through visual studio 2019 on windows.
+
 - Explanation
 Player 1 calculates and operates the probability, and Player 2 operates according to the same rules as the dealer.
 Compare the win rates of Player1 and Player2.
 
 
-- 규칙
+- rule
 The player proceeds assuming the unseen dealer's card is 10.(There is a high probability that at least one of the two cards received initially contains 10, J, Q, K, and A.)
 Player 2 does Stand if it is 17 or higher, and HIT if it is less than 17.
 Player 1 hits and stands based on probability.(Calculate the probability using which card has already been played.)
