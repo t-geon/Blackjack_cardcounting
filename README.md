@@ -1,4 +1,4 @@
-# blackjack_cardcounting
+# Blackjack_cardcounting
 
 This is the code I wrote through visual studio 2019 on windows.
 
